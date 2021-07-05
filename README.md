@@ -1,6 +1,6 @@
 # 3Amigos
 
-Team Member:
+<h1>Team Member:</h1>
 
 Elisa Avallone<br>
 Daria Kardat<br>
