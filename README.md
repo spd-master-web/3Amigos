@@ -2,6 +2,6 @@
 
 Team Member:
 
-Elisa Avallone
-Daria Kardat
-Yen Ni Liu
+Elisa Avallone<br>
+Daria Kardat<br>
+Yen Ni Liu<br>
