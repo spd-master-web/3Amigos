@@ -33,7 +33,6 @@ $("body > header > div.mobile.hidden-lg > div > div.dl-menuwrapper.augmentedZInd
 <b>After</b><br><br>
 <img width="377" alt="Screen Shot 2021-07-06 at 3 03 58 PM" src="https://user-images.githubusercontent.com/83597104/124604704-7cb47400-de6b-11eb-8c05-387270a1f982.png">
 
-<h4>Coding</h4>
 ```
 $("#pdpFilterAccordion > div:nth-child(7) > a").css({"background-color": "#FFF165", "font-size": "14px"});
 $("#pdpFilterAccordion > div:nth-child(7) > a > span.customize__text.customize__text--design").css("color", "black");
