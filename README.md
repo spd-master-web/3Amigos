@@ -43,6 +43,19 @@ $("#pdpFilterAccordion > div:nth-child(7) > a > span.customize__text.customize__
 <img width="375" alt="Screen Shot 2021-07-06 at 3 58 37 PM" src="https://user-images.githubusercontent.com/83597104/124612999-15022700-de73-11eb-9d42-5754f312bc79.png">  
 <b>After</b>
   
+  <h4>1. Filters</h4>
+  <b>Before</b><br><br>
+  <img width="376" alt="Screenshot 2021-07-13 at 6 22 40 PM" src="https://user-images.githubusercontent.com/83962060/126940019-cd25228f-5bb8-4008-b3b5-7ed84960137a.png">
+  <h4>Coding</h4>
+<h3>Flex-column</h3>   
+  $(".sgh-filter-item__list ul").css('cssText', 'flex-direction: column')
+  <h3>Align-items and make column</h3> 
+  $(".sgh-filter-item__list ul").css('cssText', 'flex-direction: column; align-items: flex-start')
+<h3>Align-items and make column</h3> 
+  $(".sgh-filter-item__list ul li").css('cssText', 'min-width: 200px')
+ <h3>Font-size</h3>  
+  $('label').css('font-size', '14px')
+  
   <h2>Costa Del Mar</h2>
   <h4>1. Special offer.</h4>
   <b>Before</b><br><br>
