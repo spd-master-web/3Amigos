@@ -42,3 +42,42 @@ $("#pdpFilterAccordion > div:nth-child(7) > a > span.customize__text.customize__
 <b>Before</b><br><br>
 <img width="375" alt="Screen Shot 2021-07-06 at 3 58 37 PM" src="https://user-images.githubusercontent.com/83597104/124612999-15022700-de73-11eb-9d42-5754f312bc79.png">  
 <b>After</b>
+  
+  <h2>Costa Del Mar</h2>
+  <h4>1. Special offer.</h4>
+  <b>Before</b><br><br>
+  <b>Before</b><br><br>
+  <img width="375" alt="Screenshot 2021-07-06 at 3 56 07 PM" src="https://user-images.githubusercontent.com/83962060/126939249-e5401590-6a34-44a6-a5da-65b6f729951b.png">
+  <b>After</b>
+  <img width="375" alt="Screenshot 2021-07-06 at 4 03 07 PM" src="https://user-images.githubusercontent.com/83962060/126939274-d73f12a0-729b-4820-bfed-271d721abe3a.png">
+  <h4>Coding</h4>
+  <h3>Change bg of the section</h3>
+jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder").css({backgroundColor: "#005080"})
+  <h3>Change the text color</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > div.text-secondary.small.font-weight-bold").css("cssText", "color: white !important")
+  <h3>Change the Font Size of special offer</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > div.text-secondary.small.font-weight-bold").css({"font-size": "20px"})
+   <h3>Change to 50%</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > div.rxSpecialOffer").css({color: "white"})
+ <h3>Change bg for the details</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > div.rxSpecialOffer > button").css("cssText", "background-color: #005080 !important")
+   <h3>Change the color for the details</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > div.rxSpecialOffer > button > span").css({color: "white"})
+    <h3>Change the color for the text </h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder").css({color: "white"})
+    <h3>To change the bg of the second details  </h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > button").css("cssText", "background-color: #005080 !important")
+   <h3>Change the color of the second details</h3> 
+  jQuery("#shopper-actions-mobile > div > div.border.mt-4.mb-0.mb-md-5.p-2.rounded.noborder > div > button").css({color: "white"})
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
